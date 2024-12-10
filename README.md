@@ -1,0 +1,1 @@
+This is my undergraduate project. In this paper, based on different types of forgery, we construct a time-domain forgery speech detection model based on attention mechanism and a generalized forgery speech detection model based on time-frequency domain features, which improves the accuracy, generalization and universality of the models.
