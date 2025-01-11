@@ -157,7 +157,17 @@ export default {
       generalForm: {
         showgeneralPath: ''
       },
-      reports:[],
+      reports:[ 
+        {
+          "confidence": 100.0,
+          "nameOf": "special_audio1.flac",
+          "state": 1
+        },
+        {
+          "confidence": 98.0,
+          "nameOf": "special_audio2.flac",
+          "state": 0
+        }],
       myChart:{}
     }
   },
@@ -238,6 +248,7 @@ export default {
         this.getPie()
       }).catch((error) => {
         console.log('error', error)
+        this.getPie()
       })
     },
     // 上传成功回调
@@ -309,6 +320,7 @@ export default {
         this.getPie()
       }).catch((error) => {
         console.log('error', error)
+        this.getPie()
       })
     },
     // 上传成功回调
