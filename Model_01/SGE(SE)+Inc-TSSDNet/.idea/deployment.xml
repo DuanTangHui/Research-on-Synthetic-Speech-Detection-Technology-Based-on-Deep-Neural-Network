@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="duantanghui@10.4.14.74:22 password (1)" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="duantanghui@10.4.14.74:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/duantanghui/data/end-to-end-synthetic-speech-detection-main" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="duantanghui@10.4.14.74:22 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/duantanghui/data/end-to-end-synthetic-speech-detection-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="duantanghui@10.4.14.74:22 (3)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="duantanghui@10.4.14.74:22 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="duantanghui@10.4.14.74:22 password (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/duantanghui/data/end-to-end-synthetic-speech-detection-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
