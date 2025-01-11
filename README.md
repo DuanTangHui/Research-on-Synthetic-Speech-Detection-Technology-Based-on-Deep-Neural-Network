@@ -33,3 +33,6 @@ npm install
 ```
 npm run serve
 ```
+## 系统展示
+https://duantanghui.github.io/Synthetic-Speech-Detection/#/home
+### 考虑到后端无法放到云服务器，这里的最终报告是写死的。
